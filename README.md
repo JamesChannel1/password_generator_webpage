@@ -1,2 +1,2 @@
 # password_generator_webpage
-webpage made of HTML, CSS and JS.
+Webpage with buttons which generate passwords. 
