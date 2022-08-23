@@ -1,0 +1,53 @@
+html{
+  width:  100%;
+}
+
+#logo {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 30%;
+  border: solid lightgrey 14px;
+  background-color: lightgrey;
+}
+
+.topbox {
+  border: 5px solid black;
+  background-color: lightgrey;
+  padding: 0.5%;
+  width: 69%;
+  border-radius: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Times New Roman, serif;
+  font-size: 16px;
+}
+
+#box0
+{
+  border: 5px solid black;
+  background-color: lightgrey;
+  padding: 20px;
+  width: 68%;
+  height: 880px;
+  border-radius: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Times New Roman, serif;
+  font-size: 16px;
+}
+  
+#pad_this0
+{
+  padding-top: 20px;
+}
+
+#pad_this1
+{
+  padding-top: 20px;
+}
+
+#pad_this2
+{
+  padding-top: 20px;
+}
